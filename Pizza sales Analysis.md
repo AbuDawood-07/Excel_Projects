@@ -4,6 +4,7 @@
 This project provides a comprehensive analysis of pizza sales data, aiming to offer insights into sales performance, customer preferences, and operational efficiency. The analysis is presented through an interactive dashboard created using Excel.
 ## Dashboard :
 <img width="804" alt="Screenshot 2024-08-05 161641" src="https://github.com/user-attachments/assets/d48054a6-086d-44fc-ad8d-f9c26f3de0e9">
+
 ## Project Overview
 
 ### Objective
